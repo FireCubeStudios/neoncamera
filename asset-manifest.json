@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neoncamera/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/neoncamera/static/js/main.f769717c.chunk.js",
+    "main.js.map": "/neoncamera/static/js/main.f769717c.chunk.js.map",
+    "runtime-main.js": "/neoncamera/static/js/runtime-main.b7fc4cad.js",
+    "runtime-main.js.map": "/neoncamera/static/js/runtime-main.b7fc4cad.js.map",
+    "static/js/2.1d8f3abf.chunk.js": "/neoncamera/static/js/2.1d8f3abf.chunk.js",
+    "static/js/2.1d8f3abf.chunk.js.map": "/neoncamera/static/js/2.1d8f3abf.chunk.js.map",
+    "index.html": "/neoncamera/index.html",
+    "precache-manifest.6b320d205a12da411a2d1e35a79719d3.js": "/neoncamera/precache-manifest.6b320d205a12da411a2d1e35a79719d3.js",
+    "service-worker.js": "/neoncamera/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/neoncamera/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1d8f3abf.chunk.js.LICENSE.txt": "/neoncamera/static/js/2.1d8f3abf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fc4cad.js",
+    "static/js/2.1d8f3abf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f769717c.chunk.js"
+  ]
+}
